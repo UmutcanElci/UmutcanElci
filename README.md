@@ -49,8 +49,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/UmutcanElci/UmutcanElci/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -60,4 +58,3 @@
 </div>
 
 ###
-
