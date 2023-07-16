@@ -47,12 +47,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/UmutcanElci/UmutcanElci/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/UmutcanElci/count.svg?"  />
 </div>
