@@ -30,9 +30,14 @@
 ---
 
 ### 📊 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutcanElci&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+ 
+<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutcanElci&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=UmutcanElci&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=UmutcanElci&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Trophies" />
 </p>
 
 </div>
