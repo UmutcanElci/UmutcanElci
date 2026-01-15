@@ -1,21 +1,53 @@
-# 💫 About Me:
-🔭 I’m currently working on : .Net8<br>🌱 I’m currently learning : also .Net 8 <br>
+<div align="center">
 
+# Hi there, I'm Umutcan! 👋
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/umutcan-el%C3%A7i-00a8121b9/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@umutcanelci) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20029016/umutcanel%c3%a7i) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UmutcanElci&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UmutcanElci&theme=vue-dark&hide_border=false)<br/>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UmutcanElci&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+### Software Engineer | Backend Development | .NET & C# | C | Python | Java
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UmutcanElci&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  I am a Software Engineer with a strong passion for understanding how things work under the hood—from high-level web architectures to low-level system logic.
+  <br><br>
+  My journey started with <b>Java</b> and <b>Python</b>, but I have specialized in the <b>.NET ecosystem</b> for building scalable backend solutions. I have applied these skills in various <b>contract-based web projects</b>, delivering production-ready applications using <b>C#</b> and SQL databases.
+  <br><br>
+  Currently, I am deepening my engineering knowledge by working with <b>C</b> to master memory management and system-level concepts. Before transitioning to software engineering, I worked professionally as a <b>3D Designer (Blender)</b>, which gave me a disciplined and detail-oriented approach to project delivery.
+</p>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,c,java,python,postgres,blender,git,docker,linux&perline=5" />
+  </a>
+</p>
+
+<br>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutcanElci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="Umutcan's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutcanElci&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=html,css,jupyter%20notebook" height="180" alt="Top Languages" />
+</p>
+
+</div>
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/umutcan-el%C3%A7i-00a8121b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:umutcanelci@yaani.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
