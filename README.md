@@ -33,10 +33,7 @@
  
 <p align="center">
  
-  <img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-iso.svg" alt="Isometric Calendar" width="800" />
-  <br><br>
-
-  <img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-langs.svg" alt="Languages Analysis" width="800" />
+<img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-full.svg" alt="Full Metrics" width="800" />
 
 </div>
 
