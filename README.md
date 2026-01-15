@@ -33,7 +33,7 @@
  
 <p align="center">
  
-<img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-full.svg" alt="Full Metrics" width="800" />
+<img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-final.svg" alt="Final Metrics" width="850" />
 
 </div>
 
