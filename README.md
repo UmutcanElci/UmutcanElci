@@ -32,13 +32,11 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.demolab.com/?user=UmutcanElci&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+ 
+  <img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-iso.svg" alt="Isometric Calendar" width="48%" />
   
-  <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=UmutcanElci&theme=tokyonight&no-frame=true&column=6&margin-w=15" alt="Trophies" />
-</p>
+  <img src="https://github.com/UmutcanElci/UmutcanElci/blob/main/metrics-langs.svg" alt="Languages Analysis" width="48%" />
 
 </div>
 
